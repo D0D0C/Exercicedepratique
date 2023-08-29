@@ -1,2 +1,4 @@
-package org.example.Exercices.vegetation;public class Plante {
+package org.example.Exercices.vegetation;
+
+public class Plante {
 }
